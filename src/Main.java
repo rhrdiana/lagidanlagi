@@ -149,6 +149,5 @@ public class Main {
 
         // Cetak nota
         order.printReceipt(payment);
-        order.printReceipt(payment);
     }
 }
